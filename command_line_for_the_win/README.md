@@ -8,7 +8,7 @@ I have done 30 of the challenges as you can see in the screenshot ***2-next_9_ta
 ![2-next_9_tasks.png](https://github.com/iagmidif/alx-system_engineering-devops/blob/main/command_line_for_the_win/2-next_9_tasks.png?raw=true)
 
 
-I don't think it is appropriate to just share the answer on this read me, but i will list almost every thing I used to do the challengs.
+I don't think it is appropriate to just share the answer on this read me, but i will list almost everything that helped me to do the challengs.
 
 List of the commands I have used:
 * `find`
